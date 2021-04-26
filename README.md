@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmagoon)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanmagoon)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ryanmagoon/ryanmagoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
